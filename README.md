@@ -41,28 +41,28 @@ Flutter, Dart
 
 <p align = "left" >
   <img width="250" height="500" src="Flutter_Dating/github_images/start.jpeg">
-  <img width="250" height="500"  src="github_images/login.jpeg"> 
-  <img width="250" height="500" src="github_images/register.gif"> 
+  <img width="250" height="500"  src="Flutter_Dating/github_images/login.jpeg"> 
+  <img width="250" height="500" src="Flutter_Dating/github_images/register.gif"> 
 </p>
 
 ### Profile | Chats | Match
 
 <p align = "left" >
-  <img width="250" height="500" src="github_images/profile.jpeg">
-  <img width="250" height="500"  src="github_images/chats.jpeg"> 
-  <img width="250" height="500" src="github_images/match.gif"> 
+  <img width="250" height="500" src="Flutter_Dating/github_images/profile.jpeg">
+  <img width="250" height="500"  src="Flutter_Dating/github_images/chats.jpeg"> 
+  <img width="250" height="500" src="Flutter_Dating/github_images/match.gif"> 
 </p>
 
 ### Chat | Matched
 <p align = "left" >
-  <img width="250" height="500" src="github_images/chat.jpeg">
-  <img width="250" height="500" src="github_images/matched.jpeg">
+  <img width="250" height="500" src="Flutter_Dating/github_images/chat.jpeg">
+  <img width="250" height="500" src="Flutter_Dating/github_images/matched.jpeg">
 </p>
 
 ### Firebase
 <p align = "left" >
-  <img  width="378" height="332" src="github_images/firestore_1.png"> 
-  <img  width="378" height="332" src="github_images/firestore_2.png"> 
+  <img  width="378" height="332" src="Flutter_Dating/github_images/firestore_1.png"> 
+  <img  width="378" height="332" src="Flutter_Dating/github_images/firestore_2.png"> 
 </p>
 
 ## Setup
